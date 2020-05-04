@@ -1,0 +1,11 @@
+/Users/suzannedeakins/Desktop/Epicodus/csharp-5-4/riddles/obj/Debug/netcoreapp2.2/riddles.csprojAssemblyReference.cache
+/Users/suzannedeakins/Desktop/Epicodus/csharp-5-4/riddles/obj/Debug/netcoreapp2.2/riddles.csproj.CoreCompileInputs.cache
+/Users/suzannedeakins/Desktop/Epicodus/csharp-5-4/riddles/obj/Debug/netcoreapp2.2/riddles.AssemblyInfoInputs.cache
+/Users/suzannedeakins/Desktop/Epicodus/csharp-5-4/riddles/obj/Debug/netcoreapp2.2/riddles.AssemblyInfo.cs
+/Users/suzannedeakins/Desktop/Epicodus/csharp-5-4/riddles/bin/Debug/netcoreapp2.2/riddles.deps.json
+/Users/suzannedeakins/Desktop/Epicodus/csharp-5-4/riddles/bin/Debug/netcoreapp2.2/riddles.runtimeconfig.json
+/Users/suzannedeakins/Desktop/Epicodus/csharp-5-4/riddles/bin/Debug/netcoreapp2.2/riddles.runtimeconfig.dev.json
+/Users/suzannedeakins/Desktop/Epicodus/csharp-5-4/riddles/bin/Debug/netcoreapp2.2/riddles.dll
+/Users/suzannedeakins/Desktop/Epicodus/csharp-5-4/riddles/bin/Debug/netcoreapp2.2/riddles.pdb
+/Users/suzannedeakins/Desktop/Epicodus/csharp-5-4/riddles/obj/Debug/netcoreapp2.2/riddles.dll
+/Users/suzannedeakins/Desktop/Epicodus/csharp-5-4/riddles/obj/Debug/netcoreapp2.2/riddles.pdb
