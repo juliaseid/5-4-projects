@@ -1,0 +1,11 @@
+/Users/suzannedeakins/Desktop/Epicodus/csharp-5-4/obj/Debug/netcoreapp2.2/ping-pong.csprojAssemblyReference.cache
+/Users/suzannedeakins/Desktop/Epicodus/csharp-5-4/obj/Debug/netcoreapp2.2/ping-pong.csproj.CoreCompileInputs.cache
+/Users/suzannedeakins/Desktop/Epicodus/csharp-5-4/obj/Debug/netcoreapp2.2/ping-pong.AssemblyInfoInputs.cache
+/Users/suzannedeakins/Desktop/Epicodus/csharp-5-4/obj/Debug/netcoreapp2.2/ping-pong.AssemblyInfo.cs
+/Users/suzannedeakins/Desktop/Epicodus/csharp-5-4/bin/Debug/netcoreapp2.2/ping-pong.deps.json
+/Users/suzannedeakins/Desktop/Epicodus/csharp-5-4/bin/Debug/netcoreapp2.2/ping-pong.runtimeconfig.json
+/Users/suzannedeakins/Desktop/Epicodus/csharp-5-4/bin/Debug/netcoreapp2.2/ping-pong.runtimeconfig.dev.json
+/Users/suzannedeakins/Desktop/Epicodus/csharp-5-4/bin/Debug/netcoreapp2.2/ping-pong.dll
+/Users/suzannedeakins/Desktop/Epicodus/csharp-5-4/bin/Debug/netcoreapp2.2/ping-pong.pdb
+/Users/suzannedeakins/Desktop/Epicodus/csharp-5-4/obj/Debug/netcoreapp2.2/ping-pong.dll
+/Users/suzannedeakins/Desktop/Epicodus/csharp-5-4/obj/Debug/netcoreapp2.2/ping-pong.pdb
